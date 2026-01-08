@@ -12,6 +12,7 @@ while True:
     print("3 - Filtra film per genere")
     print("4 - Filtra film per produttore")
     print("0 - Esci")
+    print("non c'è più la mafia di una volta -tony pitony")
 
     scelta = input("Inserisci il numero dell'opzione desiderata: ")
 

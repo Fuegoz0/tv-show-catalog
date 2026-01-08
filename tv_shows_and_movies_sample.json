@@ -1,0 +1,226 @@
+[
+  {
+    "titolo": "Scarface",
+    "produttore": "Martin Bregman",
+    "data_produzione": "1983-12-09",
+    "genere": "Drammatico, Crime",
+    "durata": 170,
+    "rating_imdb": 8.3
+  },
+  {
+    "titolo": "Inception",
+    "produttore": "Syncopy",
+    "data_produzione": "2010-07-16",
+    "genere": "Fantascienza",
+    "durata": 148,
+    "rating_imdb": 8.8
+  },
+  {
+    "titolo": "Parasite",
+    "produttore": "Barunson E&A",
+    "data_produzione": "2019-05-30",
+    "genere": "Thriller",
+    "durata": 132,
+    "rating_imdb": 8.5
+  },
+  {
+    "titolo": "Il padrino",
+    "produttore": "Paramount Pictures",
+    "data_produzione": "1972-03-24",
+    "genere": "Crime",
+    "durata": 175,
+    "rating_imdb": 9.2
+  },
+  {
+    "titolo": "Interstellar",
+    "produttore": "Legendary Pictures",
+    "data_produzione": "2014-11-07",
+    "genere": "Fantascienza",
+    "durata": 169,
+    "rating_imdb": 8.7
+  },
+  {
+    "titolo": "La vita è bella",
+    "produttore": "Melampo Cinematografica",
+    "data_produzione": "1997-12-20",
+    "genere": "Drammatico",
+    "durata": 116,
+    "rating_imdb": 8.6
+  },
+  {
+    "titolo": "Titanic",
+    "produttore": "20th Century Fox",
+    "data_produzione": "1997-12-19",
+    "genere": "Romantico",
+    "durata": 195,
+    "rating_imdb": 7.9
+  },
+  {
+    "titolo": "Il signore degli anelli: Il ritorno del re",
+    "produttore": "WingNut Films",
+    "data_produzione": "2003-12-17",
+    "genere": "Fantasy",
+    "durata": 201,
+    "rating_imdb": 9.0
+  },
+  {
+    "titolo": "Pulp Fiction",
+    "produttore": "Miramax",
+    "data_produzione": "1994-10-14",
+    "genere": "Crime",
+    "durata": 154,
+    "rating_imdb": 8.9
+  },
+  {
+    "titolo": "Forrest Gump",
+    "produttore": "Paramount Pictures",
+    "data_produzione": "1994-07-06",
+    "genere": "Drammatico",
+    "durata": 142,
+    "rating_imdb": 8.8
+  },
+  {
+    "titolo": "The Social Network",
+    "produttore": "Columbia Pictures",
+    "data_produzione": "2010-10-01",
+    "genere": "Biografico",
+    "durata": 120,
+    "rating_imdb": 7.8
+  },
+  {
+    "titolo": "Joker",
+    "produttore": "Warner Bros.",
+    "data_produzione": "2019-10-04",
+    "genere": "Drammatico",
+    "durata": 122,
+    "rating_imdb": 8.4
+  },
+  {
+    "titolo": "Mad Max: Fury Road",
+    "produttore": "Kennedy Miller Mitchell",
+    "data_produzione": "2015-05-15",
+    "genere": "Azione",
+    "durata": 120,
+    "rating_imdb": 8.1
+  },
+  {
+    "titolo": "Shutter Island",
+    "produttore": "Phoenix Pictures",
+    "data_produzione": "2010-02-19",
+    "genere": "Thriller psicologico",
+    "durata": 138,
+    "rating_imdb": 8.2
+  },
+  {
+    "titolo": "Her",
+    "produttore": "Annapurna Pictures",
+    "data_produzione": "2013-12-18",
+    "genere": "Fantascienza romantica",
+    "durata": 126,
+    "rating_imdb": 8.0
+  },
+  {
+    "titolo": "Il labirinto del fauno",
+    "produttore": "Esperanto Filmoj",
+    "data_produzione": "2006-10-11",
+    "genere": "Fantasy",
+    "durata": 118,
+    "rating_imdb": 8.6
+  },
+  {
+    "titolo": "Whiplash",
+    "produttore": "Bold Films",
+    "data_produzione": "2014-10-10",
+    "genere": "Drammatico musicale",
+    "durata": 107,
+    "rating_imdb": 8.5
+  },
+  {
+    "titolo": "The Grand Budapest Hotel",
+    "produttore": "Fox Searchlight Pictures",
+    "data_produzione": "2014-03-28",
+    "genere": "Commedia",
+    "durata": 99,
+    "rating_imdb": 8.1
+  },
+  {
+    "titolo": "Il curioso caso di Benjamin Button",
+    "produttore": "Paramount Pictures",
+    "data_produzione": "2008-12-25",
+    "genere": "Fantasy",
+    "durata": 166,
+    "rating_imdb": 7.8
+  },
+  {
+    "titolo": "Il miglio verde",
+    "produttore": "Castle Rock Entertainment",
+    "data_produzione": "1999-12-10",
+    "genere": "Drammatico",
+    "durata": 189,
+    "rating_imdb": 8.6
+  },
+  {
+    "titolo": "Fight Club",
+    "produttore": "Fox 2000 Pictures",
+    "data_produzione": "1999-10-15",
+    "genere": "Drammatico",
+    "durata": 139,
+    "rating_imdb": 8.8
+  },
+  {
+    "titolo": "Il silenzio degli innocenti",
+    "produttore": "Orion Pictures",
+    "data_produzione": "1991-02-14",
+    "genere": "Thriller",
+    "durata": 118,
+    "rating_imdb": 8.6
+  },
+  {
+    "titolo": "Il sesto senso",
+    "produttore": "Hollywood Pictures",
+    "data_produzione": "1999-08-06",
+    "genere": "Thriller",
+    "durata": 107,
+    "rating_imdb": 8.2
+  },
+  {
+    "titolo": "Il pianista",
+    "produttore": "Studio Babelsberg",
+    "data_produzione": "2002-09-25",
+    "genere": "Biografico",
+    "durata": 150,
+    "rating_imdb": 8.5
+  },
+  {
+    "titolo": "Il gladiatore",
+    "produttore": "DreamWorks",
+    "data_produzione": "2000-05-05",
+    "genere": "Storico",
+    "durata": 155,
+    "rating_imdb": 8.5
+  },
+  {
+    "titolo": "The Truman Show",
+    "produttore": "Paramount Pictures",
+    "data_produzione": "1998-06-05",
+    "genere": "Drammatico",
+    "durata": 103,
+    "rating_imdb": 8.2
+  },
+  {
+    "titolo": "Il lato positivo",
+    "produttore": "The Weinstein Company",
+    "data_produzione": "2012-11-16",
+    "genere": "Commedia drammatica",
+    "durata": 122,
+    "rating_imdb": 7.7
+  },
+  {
+    "titolo": "Birdman",
+    "produttore": "Fox Searchlight Pictures",
+    "data_produzione": "2014-10-17",
+    "genere": "Commedia drammatica",
+    "durata": 119,
+    "rating_imdb": 7.7
+  }
+]
